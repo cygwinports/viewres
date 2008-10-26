@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXaw8
-sdesc: "Xorg Athena widget viewer"
-ldesc: "Xorg Athena widget viewer"
+requires: cygwin libX11_6 libXaw7 libXmu6 libXt6
+sdesc: "X.Org Athena widget viewer"
+ldesc: "X.Org Athena widget viewer"
