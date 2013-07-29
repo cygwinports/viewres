@@ -1,0 +1,12 @@
+inherit xorg
+
+NAME="viewres"
+VERSION=1.0.4
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X Athena widget viewer"
+DESCRIPTION="The viewres program displays a tree showing the widget class
+hierarchy of the Athena Widget Set.  Each node in the tree can be expanded to
+show the resources that the corresponding class adds when a widget is created.
+This application allows the user to visually examine the structure and
+inherited resources for the Athena Widget Set."
